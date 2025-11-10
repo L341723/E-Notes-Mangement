@@ -40,44 +40,46 @@ E-Notebook/
 
 User logs in by selecting:
 
-Role (Teacher/Student)
+-Role (Teacher/Student)
 
-Department
+-Department
 
-Username & password
+-Username & password
 
 System loads the dashboard for the selected department.
 
 Teachers can upload notes with:
 
-Filename
+-Filename
 
-Type
+-Type
 
-Size
+-Size
 
-Upload date
+-Upload date
 
-Optional tag
+-Optional tag
 
 Notes are stored in browser localStorage under the selected department.
 
 Students can:
 
-View the notes list
+-View the notes list
 
-Search by filename or tag
+-Search by filename or tag
 
-Filter by file type
+-Filter by file type
 
-Sort by date
+-Sort by date
 
-Preview and download
+-Preview and download
 
 🛠 Installation / Running
 
 No installation needed!
 
 ✅ Just open the index.html file in any browser.
+
 ✅ Everything works locally using JavaScript + localStorage.
+
 ✅ No server setup, no database required.
